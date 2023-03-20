@@ -1,6 +1,6 @@
 <h2>Vanilla Optimized</h2>
 </br>
-<a href="https://modrinth.com/modpack/vanilla-optimized"><img alt="modrinth" height="28" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/modrinth_vector.svg"></a>
+<a href="https://modrinth.com/modpack/vanilla-optimized" target="_blank"><img alt="modrinth" height="28" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/modrinth_vector.svg"></a>
 </br>
 This pack makes your vanilla experiance a much nicer and smoother one. It also  <a href="https://modrinth.com/mod/no-telemetry">removes telemetry</a> and comes with <a href="https://modrinth.com/mod/no-chat-reports">No chat Reports</a> which makes chat unreportable (where possible).</br>
 <a href="https://modrinth.com/mod/iris">Iris</a> is also included, it does nothing by its self but allows you to install <a href="https://modrinth.com/shaders">shaders</a>.
