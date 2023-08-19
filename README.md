@@ -28,4 +28,7 @@ This pack makes your vanilla experiance a much nicer and smoother one. It also  
 <li><a href="https://modrinth.com/mod/iris">Iris Shaders</a></li>
 <li><a href="https://modrinth.com/mod/starlight">Starlight (Fabric)</a></li>
 <li><a href="https://modrinth.com/mod/indium">Indium</a></li>
+<li><a href="https://modrinth.com/mod/dcwa">Disable Custom Worlds Advice</a></li>
+<li><a href="https://modrinth.com/mod/c2me-fabric">Concurrent Chunk Management Engine</a></li>
+<li><a href="https://modrinth.com/mod/fastload">Fast Load</a></li> 
 </ul>
