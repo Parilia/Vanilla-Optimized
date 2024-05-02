@@ -6,29 +6,23 @@ This pack makes your vanilla experiance a much nicer and smoother one. It also  
 <a href="https://modrinth.com/mod/iris">Iris</a> is also included, it does nothing by its self but allows you to install <a href="https://modrinth.com/shaders">shaders</a>.
 </br>
 </br>
-<h2>Full list of mods:</h2>
+<h2>Full list of mods for current version:</h2>
 </br>
 <ul>
-<li><a href="https://modrinth.com/mod/lithium">Lithium</a></li>
-<li><a href="https://modrinth.com/mod/no-chat-reports">No Chat Reports</a></li>
-<li><a href="https://modrinth.com/mod/moreculling">More Culling</a></li>
-<li><a href="https://modrinth.com/mod/cloth-config">Cloth Config API</a></li>
-<li><a href="https://modrinth.com/mod/smoothboot-fabric">Smooth Boot (Fabric)</a></li>
-<li><a href="https://modrinth.com/mod/fabric-api">Fabric API</a></li>
-<li><a href="https://modrinth.com/mod/ferrite-core">FerriteCore</a></li>
-<li><a href="https://modrinth.com/mod/modmenu">Mod Menu</a></li>
-<li><a href="https://modrinth.com/mod/entityculling">EntityCulling</a></li>
-<li><a href="https://modrinth.com/mod/no-telemetry">No Telemetry</a></li>
-<li><a href="https://modrinth.com/mod/sodium-extra">Sodium Extra</a></li>
-<li><a href="https://modrinth.com/mod/reeses-sodium-options">Reese's Sodium Options</a></li>
-<li><a href="https://modrinth.com/mod/sodium">Sodium</a></li>
-<li><a href="https://modrinth.com/mod/dynamic-fps">Dynamic FPS</a></li>
-<li><a href="https://modrinth.com/mod/betterf3">BetterF3</a></li>
-<li><a href="https://modrinth.com/mod/durability-plus">Durability Plus</a></li>
-<li><a href="https://modrinth.com/mod/iris">Iris Shaders</a></li>
-<li><a href="https://modrinth.com/mod/starlight">Starlight (Fabric)</a></li>
-<li><a href="https://modrinth.com/mod/indium">Indium</a></li>
-<li><a href="https://modrinth.com/mod/dcwa">Disable Custom Worlds Advice</a></li>
-<li><a href="https://modrinth.com/mod/c2me-fabric">Concurrent Chunk Management Engine</a></li>
-<li><a href="https://modrinth.com/mod/fastload">Fast Load</a></li> 
+	<li><a href="https://modrinth.com/mod/8shC1gFX">BetterF3</a> by cominixo, TreyRuffy</li>
+	<li><a href="https://modrinth.com/mod/aC3cM3Vq">Mouse Tweaks</a> by Ivan Molodetskikh (YaLTeR)</li>
+	<li><a href="https://modrinth.com/mod/sk9rgfiA">Embeddium</a> by embeddedt, jellysquid3</li>
+	<li><a href="https://modrinth.com/mod/P7dR8mSH">Fabric API</a> by FabricMC</li>
+	<li><a href="https://modrinth.com/mod/LQ3K71Q1">Dynamic FPS</a> by juliand665, LostLuma</li>
+	<li><a href="https://modrinth.com/mod/fQEb0iXm">Krypton</a> by tuxed</li>
+	<li><a href="https://modrinth.com/mod/uXXizFIs">FerriteCore</a> by malte0811</li>
+	<li><a href="https://modrinth.com/mod/YL57xq9U">Iris</a> by coderbot, IMS212, Justsnoopy30, FoundationGames</li>
+	<li><a href="https://modrinth.com/mod/VSNURh3q">Concurrent Chunk Management Engine</a> by RelativityMC, ishland</li>
+	<li><a href="https://modrinth.com/mod/NNAgCjsB">EntityCulling</a> by tr7zw</li>
+	<li><a href="https://modrinth.com/mod/PtjYWJkn">Sodium Extra</a> by FlashyReese</li>
+	<li><a href="https://modrinth.com/mod/nmDcB62a">ModernFix</a> by embeddedt</li>
+	<li><a href="https://modrinth.com/mod/mOgUt4GM">Mod Menu</a> by Prospector, haykam821, TerraformersMC</li>
+	<li><a href="https://modrinth.com/mod/5ZwdcRci">ImmediatelyFast</a> by RK_01</li>
+	<li><a href="https://modrinth.com/mod/fRiHVvU7">EMI</a> by Emi</li>
+	<li><a href="https://modrinth.com/mod/gvQqBUqZ">Lithium</a> by JellySquid, 2No2Name</li>
 </ul>
